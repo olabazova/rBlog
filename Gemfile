@@ -10,6 +10,8 @@ gem 'mail_form'
 gem 'simple_form'
 gem 'will_paginate', '~> 3.0'
 gem 'paperclip', '>= 5.2.0'
+gem "wysiwyg-rails"
+gem "font-awesome-rails"
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.2.3'

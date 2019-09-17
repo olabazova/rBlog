@@ -23,3 +23,5 @@ Things you may want to cover:
 
 * ...
 # rBlog
+
+# Admin username/password: test@test.com/test123
