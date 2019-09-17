@@ -24,6 +24,7 @@ Things you may want to cover:
 * ...
 # rBlog
 
-* Credentials for the admin portion of the website:
+Use the following credentials for the admin portion of the website:
+
 * Username: test@test.com
 * Password: test123
